@@ -1,5 +1,5 @@
 # Gesture-Recognition
-A computer vision-based project that recognizes hand gestures using **machine learning** and/or **deep learning** models.  
+A computer vision-based project that recognizes hand gestures using **machine learning** model.  
 This system can be integrated into applications such as touchless interfaces, sign language translation, or human-computer interaction.
 
 📌 Features
